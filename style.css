@@ -1,0 +1,60 @@
+/* div {
+  outline: 1px solid lightgrey;
+} */
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.wrapper1 {
+  background-image: linear-gradient(#96CFEA, #5A9BC6);
+}
+
+.small-logo {
+  height: 30px;
+}
+
+.navlink {
+  text-transform: uppercase;
+  color: white;
+  font-family: sans-serif;
+  font-size: 11px;
+  letter-spacing: 2px;
+  align-self: flex-end;
+}
+
+.colflex {
+  display: flex;
+}
+
+h1 {
+  font-weight: 200;
+  color: white;
+  letter-spacing: .04em;
+}
+
+p {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.577);
+  line-height: 2em;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.phone-img-size {
+  height: 400px;
+}
+
+.primary-cta {
+  border-radius: 25px;
+  background-color: rgba(0, 0, 0, 0.132);
+  border: none;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: white;
+  padding: 13px 30px 13px 30px;
+  cursor: pointer;
+}
